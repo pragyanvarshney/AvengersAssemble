@@ -50,3 +50,9 @@
 -Bio: Just a begginer but believes in going high and high.
 -Github:[Nitin Doodhiya](https://github.com/nitindoodhiya)
 
+#### Name: [PRAGYAN VARSHNEY](https://github.com/pragyanvarshney)
+-Place: Allahabad, UP, India.
+-Bio: Life has no Ctrl+Z.
+-Github:[PRAGYAN VARSHNEY](https://github.com/pragyanvarshney)
+
+
